@@ -6,8 +6,9 @@ Original game website: https://www.merriam-webster.com/games/quordle
 Original reimplementation: https://bosorioo.github.io/wordle-unlimited/
 
 My version: https://sanzuussans.github.io/quordle-unlimited/index.html
-
 Hard version: https://sanzuussans.github.io/quordle-unlimited/indexhard.html
+
+Wordle projects: https://sanzuussans.github.io/wordleverse
 
 ## Notable changes to dictionary
 
